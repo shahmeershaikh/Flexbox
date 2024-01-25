@@ -1,0 +1,23 @@
+nav{
+    border: 2px solid #000;
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.my image{
+    height: 60px;
+    width: 120px;
+    border: 2px solid red;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    /* justify-content: ; */
+}
+ul >li{
+    list-style-type: none;
+}
+ul > li > a{
+    text-decoration: none;
+}
